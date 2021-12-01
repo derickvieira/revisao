@@ -9,3 +9,6 @@ resposta: é uma ramificação da main(que é o projeto princiapal), recomenda-s
 
 4° Oque é Merge?
 resposta: Merge significa "junção ou fusão", é oque acontece no processo de fazer uma merge, é a junção de duas ou mais ramificações.
+
+5° Oque é clone? 
+resposta: Clone de trabalhos feitos no github 

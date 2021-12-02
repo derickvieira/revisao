@@ -18,3 +18,15 @@ resposta: puxa arquivos.
 
 7° Oque é push? 
 resposta: O push tem a função d empurrar alterações e arquivos novos para a brach main.
+
+8° Oque é fork?
+resposta: O fork é uma cópia do repositório . 
+
+9° Oque é pull request?
+resposta: solicitação de pull para uma empresa ou usuário.
+
+10° O que é VCS?
+resposta: Sistema de controle de versões.
+
+11° Quais vantagens de ultilizar o VCS?
+resposta: Integridade do grupo e comportamento. 

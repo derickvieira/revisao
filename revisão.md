@@ -12,3 +12,6 @@ resposta: Merge significa "junção ou fusão", é oque acontece no processo de 
 
 5° Oque é clone? 
 resposta: Clone de trabalhos feitos no github 
+
+6° Oque é pull?
+resposta: puxa arquivos.

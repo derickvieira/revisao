@@ -15,3 +15,6 @@ resposta: Clone de trabalhos feitos no github
 
 6° Oque é pull?
 resposta: puxa arquivos.
+
+7° Oque é push? 
+resposta: O push tem a função d empurrar alterações e arquivos novos para a brach main.
